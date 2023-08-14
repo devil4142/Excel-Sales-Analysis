@@ -33,13 +33,15 @@
  
 2. Data Date Table Mastery:**  Skillfully generate dynamic date tables using Power Query.
  
- 3. Fiscal Insights: Excel at deriving fiscal months and quarters to enhance analysis.
+3. Fiscal Insights: Excel at deriving fiscal months and quarters to enhance analysis.
  
- 4 .Effective Data Models: Establish strong data model relationships through Power Pivot expertise.
+4 .Effective Data Models: Establish strong data model relationships through Power Pivot expertise.
  
- 5. Enhanced Data Integration: Seamlessly integrate supplementary data into existing models.
+5. Enhanced Data Integration: Seamlessly integrate supplementary data into existing models.
  
- 6. DAX Wizardry: Utilize DAX to craft calculated columns for deeper insights.
+6. DAX Wizardry: Utilize DAX to craft calculated columns for deeper insights.
+
+ -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  
 **Soft Skills: Enhancing Holistic Impact**
